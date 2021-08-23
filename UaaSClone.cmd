@@ -1,0 +1,1 @@
+git clone https://scm.umbraco.io/euwest01/dev-cloud-nge-umbraco-dk.git MyCloudSite.Web
